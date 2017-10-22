@@ -4,6 +4,8 @@
 #include <cctype>
 #include <cstring>
 
+//учусь в гит
+
 #define DEBUG
 
 const int in_file   = 1 ;
